@@ -3,7 +3,7 @@
 //
 // Platform: All
 // Language: Objective-C
-// Completion Scope: All
 // Completion Shortcut: props
+// Completion Scope: Class Interface Methods
 
 @property (strong, nonatomic) <#type#> *<#name#>;

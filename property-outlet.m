@@ -4,6 +4,6 @@
 // Platform: All
 // Language: Objective-C
 // Completion Shortcut: propo
-// Completion Scope: All
+// Completion Scope: Class Interface Methods
 
 @property (weak, nonatomic) IBOutlet <#type#> *<#name#>;
