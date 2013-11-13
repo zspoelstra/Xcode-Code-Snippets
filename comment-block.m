@@ -3,6 +3,7 @@
 //
 // Platform: All
 // Language: Objective-C
+// Completion Shortcut: comment
 // Completion Scope: All
 
 /**

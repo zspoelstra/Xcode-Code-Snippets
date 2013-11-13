@@ -3,6 +3,7 @@
 //
 // Platform: All
 // Language: Objective-C
+// Completion Shortcut: vct
 // Completion Scope: All
 
 #pragma mark - Memory Management
