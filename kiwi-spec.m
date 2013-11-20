@@ -3,7 +3,7 @@
 //
 // Platform: All
 // Language: Objective-C
-// Completion Shortcut: spec
+// Completion Shortcut: kspec
 // Completion Scope: All
 
 #import "Kiwi.h"

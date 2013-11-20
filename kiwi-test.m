@@ -3,7 +3,7 @@
 //
 // Platform: All
 // Language: Objective-C
-// Completion Shortcut: test
+// Completion Shortcut: ktest
 // Completion Scope: All
 
 it(@"<#should do something#>", ^{
