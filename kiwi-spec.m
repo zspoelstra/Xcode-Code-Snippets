@@ -18,14 +18,8 @@ describe(@"the <#subject being tested#>", ^{
 	afterEach(^{
 	});
 	
-	context(@"when instantiated", ^{
-		
-		it(@"should be instantiated correctly", ^{
-			
-			<# test #>
-			
-		});
-		
+	specify(^{
+
 	});
 
 });
