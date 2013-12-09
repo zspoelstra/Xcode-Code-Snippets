@@ -8,14 +8,9 @@
 
 #pragma mark - Memory Management
 
-- (void)didReceiveMemoryWarning
-{
-	[super didReceiveMemoryWarning];
-}
-
 - (void)dealloc
 {
-
+	
 }
 
 #pragma mark - Initialization
@@ -31,27 +26,12 @@
 
 #pragma mark - View Life Cycle
 
-- (void)viewDidLoad
-{
-	[super viewDidLoad];
-}
-
 - (void)viewWillAppear:(BOOL)animated
 {
 	[super viewWillAppear:animated];
 }
 
-- (void)viewDidAppear:(BOOL)animated
-{
-	[super viewDidAppear:animated];
-}
-
 - (void)viewWillDisappear:(BOOL)animated
 {
 	[super viewWillDisappear:animated];
-}
-
-- (void)viewDidDisappear:(BOOL)animated
-{
-	[super viewDidDisappear:animated];
 }
