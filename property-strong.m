@@ -1,5 +1,5 @@
 // Strong property
-// A strong, nonatomic property
+// Creates a strong, nonatomic property
 //
 // Platform: All
 // Language: Objective-C

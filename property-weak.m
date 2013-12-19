@@ -1,5 +1,5 @@
 // Weak property
-// A weak, nonatomic property
+// Creates a weak, nonatomic property
 //
 // Platform: All
 // Language: Objective-C
