@@ -3,7 +3,7 @@
 // 
 // Platform: All
 // Language: Objective-C
-// Completion Shortcut: weakself
+// Completion Shortcut: __weakself
 // Completion Scope: Function or Method
 
 __weak typeof(self)weakSelf = self;

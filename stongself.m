@@ -3,7 +3,7 @@
 // 
 // Platform: All
 // Language: Objective-C
-// Completion Shortcut: strongself
+// Completion Shortcut: __strongself
 // Completion Scope: Function or Method
 
 __strong __typeof(<#weakSelf#>)strongSelf = <#weakSelf#>;
